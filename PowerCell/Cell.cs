@@ -43,7 +43,7 @@ namespace PowerCell
             charge = 200;
         }
 
-            public void Consume(float amount)
+        public void Consume(float amount)
         {
 
             charge = charge - amount;

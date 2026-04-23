@@ -5,7 +5,7 @@ classDiagram
         +Name: string
         +Charge: float
         +Level: int
-        +Cell() void
+        +Consume() void
         +Restore() void
         +ToString() string
         
