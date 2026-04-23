@@ -8,6 +8,5 @@ classDiagram
         +Consume() void
         +Restore() void
         +ToString() string
-        
     }
 ```

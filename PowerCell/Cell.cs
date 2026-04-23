@@ -35,8 +35,6 @@ namespace PowerCell
             }
         }
 
-
-
         public Cell(string nome)
         {
             Name = nome;
@@ -58,7 +56,6 @@ namespace PowerCell
         {
             return $"[{Name}] Level {Level}: {Charge:F0}/200";
         }
-
     }
 
 }
